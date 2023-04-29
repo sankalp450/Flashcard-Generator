@@ -12,11 +12,13 @@ https://createflashcard.netlify.app/
 Run Locally
 Clone the project
 
-  git clone https://github.com/sankalp450/Frontend-Project.git
+  git clone
+  https://github.com/sankalp450/Flashcard-Generator.git
   
 Install dependencies
 
   npm install
+
 Start the server
 
   npm run start
